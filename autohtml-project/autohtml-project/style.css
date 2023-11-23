@@ -1,0 +1,66 @@
+.desktop-9,
+.desktop-9 * {
+  box-sizing: border-box;
+}
+.desktop-9 {
+  background: linear-gradient(
+    126.74deg,
+    rgba(220, 214, 251, 0.65) 0.2968876389786601%,
+    rgba(255, 212, 245, 0.7) 100%
+  );
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.image-3 {
+  width: 1440px;
+  height: 1024px;
+  /* position: absolute; */
+  left: 0px;
+  top: 0px;
+}
+.job-recuriments {
+  color: #000aff;
+  text-align: center;
+  font: 400 59px "Itim-Regular", sans-serif;
+  position: absolute;
+  left: 271px;
+  top: 12px;
+  width: 897px;
+  height: 107px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-7 {
+  background: #ffffff;
+  border-radius: 24px;
+  width: 981px;
+  height: 55px;
+  position: absolute;
+  left: calc(50% - 530px);
+  top: 120px;
+}
+.search {
+  color: #6f6c6c;
+  text-align: left;
+  font: 400 36px "Inter-Regular", sans-serif;
+  position: absolute;
+  left: 260px;
+  top: 128px;
+  width: 251px;
+  height: 38px;
+}
+.vector-variant-2 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  height: auto;
+  position: absolute;
+  left: 1099px;
+  top: 133px;
+  overflow: visible;
+}

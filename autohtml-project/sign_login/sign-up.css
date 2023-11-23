@@ -1,0 +1,96 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: linear-gradient(
+    116.82deg,
+    rgba(155, 233, 238, 1) 0%,
+    rgba(147, 150, 229, 1) 100%
+  );
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.image-2 {
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-1 {
+  background: #6f6c6c;
+  width: 1440px;
+  height: 100px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.sign-up-as-alumini-or-as-students {
+  color: #ffffff;
+  text-align: center;
+  font: 700 59px "Inter-Bold", sans-serif;
+  position: absolute;
+  left: 30px;
+  top: -29px;
+  width: 1410px;
+  height: 167px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-2 {
+  background: #6f6c6c;
+  width: 500px;
+  height: 80px;
+  position: absolute;
+  left: 473px;
+  top: 342px;
+}
+.rectangle-3 {
+  background: #6f6c6c;
+  width: 500px;
+  height: 80px;
+  position: absolute;
+  left: 472px;
+  top: 500px;
+}
+.students {
+  color: #ffffff;
+  text-align: center;
+  font: 600 50px "Inter-SemiBold", sans-serif;
+  position: absolute;
+  left: 490px;
+  top: 510px;
+  width: 480px;
+  height: 71px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.alumini {
+  color: #ffffff;
+  text-align: center;
+  font: 600 50px "Inter-SemiBold", sans-serif;
+  position: absolute;
+  left: 490px;
+  top: 350px;
+  width: 480px;
+  height: 71px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.vector {
+  height: auto;
+  position: absolute;
+  right: 95.56%;
+  left: 3.25%;
+  width: 3.19%;
+  bottom: 91.11%;
+  top: 2.79%;
+  height: 4.1%;
+  overflow: visible;
+}

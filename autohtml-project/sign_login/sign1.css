@@ -1,0 +1,61 @@
+.desktop-3,
+.desktop-3 * {
+  box-sizing: border-box;
+}
+.desktop-3 {
+  background: linear-gradient(
+    126.74deg,
+    rgba(159, 233, 243, 1) 0.2968876389786601%,
+    rgba(98, 111, 183, 1) 100%
+  );
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.sign-up-as-allumini {
+  color: #000aff;
+  text-align: center;
+  font: 400 79px "Itim-Regular", sans-serif;
+  position: absolute;
+  left: 271px;
+  top: 10px;
+  width: 897px;
+  height: 107px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-4 {
+  background: #9be9ee;
+  border-radius: 51px;
+  width: 158px;
+  height: 39px;
+  position: absolute;
+  left: 600px;
+  top: 603px;
+}
+.next {
+  color: #000aff;
+  text-align: center;
+  font: 400 30px "Itim-Regular", sans-serif;
+  position: absolute;
+  left: 580px;
+  top: 598px;
+  width: 195px;
+  height: 51px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.vector {
+  height: auto;
+  position: absolute;
+  right: 93.61%;
+  left: 3.19%;
+  width: 3.19%;
+  bottom: 89.06%;
+  top: 3.84%;
+  height: 4.1%;
+  overflow: visible;
+}
